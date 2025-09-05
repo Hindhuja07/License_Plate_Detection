@@ -39,7 +39,7 @@ Edge deployment optimization for smart traffic systems
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/Smart-Vehicle-Detection.git
+git clone https://github.com/Hindhuja07/Smart-Vehicle-Detection.git
 cd Smart-Vehicle-Detection
 
 
